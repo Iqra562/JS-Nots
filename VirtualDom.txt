@@ -2,3 +2,4 @@ Virtual dom is memory representaion of an actual dom .
 React creates a VIRTUAL DOM in memory.
 Instead of manipulating the browser's DOM directly, React creates a virtual DOM in memory, where it does all the necessary manipulating, before making the changes in the browser DOM.
 React "reacts" to state changes in component quickly and automatically to renders the components in the HTML DOM by utilizing the virtual dom .
+https://www.w3schools.com/REACT/react_intro.asp

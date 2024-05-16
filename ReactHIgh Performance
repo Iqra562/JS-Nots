@@ -1,1 +1,5 @@
-
+5. High Performance
+React's high performance is driven by its ability to update
+only the components that undergo changes, rather than
+refreshing the entire set. This results in significantly faster
+web applications.

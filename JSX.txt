@@ -1,1 +1,1 @@
-
+JSX serves as a syntax extension to javascript,facilitating the combination of html structures  with js code within React files

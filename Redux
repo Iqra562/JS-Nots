@@ -1,1 +1,2 @@
-### Reducres
+-Reducers
+The reducer responds to the action, takes the current state, and creates new state based on the action payload.

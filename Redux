@@ -1,2 +1,3 @@
 -Reducers
 The reducer responds to the action, takes the current state, and creates new state based on the action payload.
+https://www.freecodecamp.org/news/redux-for-beginners-the-brain-friendly-guide-to-redux/

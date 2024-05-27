@@ -1,0 +1,15 @@
+undefined
+When a variable is declared but not initialized, or when a function does not return a value, the variable or the function’s result is undefined.
+Accessing an object property or array element that does not exist also results in undefined.
+It is a primitive value.
+
+
+
+null
+It is a deliberate assignment that represents the absence of any object value.
+It is often used to explicitly indicate that a variable or object property should have no value or no reference to any object.
+It is also a primitive value.
+
+
+
+https://www.geeksforgeeks.org/undefined-vs-null-in-javascript/

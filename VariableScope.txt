@@ -1,0 +1,2 @@
+https://www.geeksforgeeks.org/what-is-variable-scope-in-javascript/
+https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/

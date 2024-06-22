@@ -13,6 +13,7 @@ Object-oriented programming is a programming paradigm based on the concept of ob
 ## parts of OOP
 object literal
 -Constructur functions
+ constructor gives new instances (new copy of object)
 -Prototype 
 -Classes
 -Instances

@@ -11,10 +11,17 @@ Object-oriented programming is a programming paradigm based on the concept of ob
 ## why use OOP?
 
 ## parts of OOP
+object literal
 -Constructur functions
 -Prototype 
 -Classes
 -Instances
+
+4 pillars of oop
+Abstraction
+Encapsulation
+Inheritance
+Plymorphism
 
 https://www.youtube.com/watch?v=pN-Qmv4zBcI&list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37&index=42
 

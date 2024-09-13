@@ -1,1 +1,13 @@
 In React, the key prop is necessary when rendering lists of elements (like in a .map() function) to help React identify which items have changed, been added, or removed. This optimization allows React to efficiently update the UI by minimizing the number of DOM manipulations.
+
+
+
+
+
+
+
+
+
+
+
+The key prop in React is important because it helps React identify and track items in a list, making updates more efficient by ensuring only the changed items are re-rendered, which improves performance and maintains the correct order of elements.

@@ -1,0 +1,1 @@
+In React, the key prop is necessary when rendering lists of elements (like in a .map() function) to help React identify which items have changed, been added, or removed. This optimization allows React to efficiently update the UI by minimizing the number of DOM manipulations.

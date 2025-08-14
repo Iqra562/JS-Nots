@@ -1,1 +1,35 @@
+ useEffect(() => {
+  const observer = new IntersectionObserver(
+    (entries) => {
+      entries.forEach((entry) => {
+        // Trigger only when the top of the element hits the top of the viewport
+        if (entry.isIntersecting) {
+          setActiveId(entry.target.id);
+          console.log(entry.target.id)
+        }
+      });
+    },
+    {
+      root: null,  //viewport       
+      threshold: 0, //elements visibility
+rootMargin: "0px 0px -90% 0px" //early trigger 
 
+    }
+  );
+
+
+
+  return () => observer.disconnect();
+}, []);
+
+root =   The element whose visible area is used as the viewport for intersection checks.
+null → use the browser’s viewport
+Any element → use that element’s visible area instead
+
+
+threshold = How much of the target must be visible before triggering
+0 → trigger when even 1 pixel is visible
+1 → trigger only when the whole element is visible
+
+
+rootMargin = A way to make the trigger area bigger or smaller than the actual screen
